@@ -175,7 +175,7 @@ Email : info@zoolspeed.com
 
 All rights reserved to Zool Speed ​​Multi Activities Co., Ltd
 
-GitHub Privacy Policy Link : 
+GitHub Privacy Policy Link : https://github.com/gedoreka/ZoolSpeed/blob/main/privacy-policy.app
 
                
 
